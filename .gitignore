@@ -13,11 +13,6 @@ env/
 .env
 .env.local
 
-# ───── Editores / IDEs ─────
-.vscode/
-.idea/
-.claude/
-
 # ───── Sistema operacional ─────
 .DS_Store
 Thumbs.db
